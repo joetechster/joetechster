@@ -1,90 +1,36 @@
 # Hi, I'm Joseph Bamidele 👋
 
-### React Native Mobile Engineer · Lagos, Nigeria
+**Frontend Engineer — React · Next.js · React Native.** Lagos, Nigeria.
 
-I build React Native apps that ship. I take iOS and Android products from early stage to live on the App Store and Play Store, owning the full cycle: architecture, payments, security, performance, and release. I build with financial grade security as the default and drop into native Kotlin and Swift when JavaScript is not enough.
+I build fast, reliable interfaces for web and mobile, and I ship them all the way to the App Store and Google Play — not just mockups. I like the unglamorous parts: payment flows that survive every edge case, end-to-end-encrypted chat that still delivers its push notifications, and Play Store compliance migrations nobody notices because nothing broke.
 
-- 🔭 Currently building production mobile apps at Tolaram
-- 📱 Two apps live in production, used by thousands of people
-- 🛡️ Big on biometric auth, end to end encryption, and encrypted storage
-- ⚡ Care about the things users feel: cold start, crash rate, smooth animations
-- 📫 Reach me: **bamideledamilola3@gmail.com**
+- 🔭 Currently a **Software Engineer, Digitalization** at **Tolaram**, building internal web tools in React/Next.js that automate manual business processes.
+- 📱 **2 apps live** on the App Store & Google Play (StoneCircle, WiSolar).
+- 🧩 Comfortable dropping below JavaScript when the platform needs it — native Kotlin & Swift modules, Gradle/AGP, the NDK.
+- 🌐 Portfolio: **https://portfolio-mobile-pi.vercel.app/**
 
----
+## What I work with
 
-## 🚀 Shipped to Production
+**Frontend** — React · Next.js · React Native · TypeScript · Tailwind · Redux Toolkit / RTK Query · Radix UI · Reanimated · Framer Motion · i18n
 
-**🔵 Wisolar** — solar energy platform, built end to end in React Native
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.wicorp.wisolar)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/wisolar/id1633516130)
+**APIs & real-time** — REST · GraphQL · WebSockets · SignalR · offline-first sync · push notifications (APNs, FCM) · JWT/OAuth · biometric auth · 2FA
 
-**🟣 StoneCircle** — community app, built end to end in React Native
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.stonecircle.community)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/stonecircle/id6742403322)
+**Testing & build** — Vitest · Testing Library · ESLint · Prettier · Vite · Gradle/AGP · NDK
 
----
+**Data & dashboards** — Power BI · D3.js · Recharts · SQL · Python · LangChain · Azure OpenAI
 
-## 🛠️ Tech Stack
+**Tools & native** — Git · Azure · Kotlin · Swift · Agile
 
-**Mobile**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+## Selected work
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-**State & Data**
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-**Backend & Cloud**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tooling & Release**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
-
-Also working with: Kotlin Multiplatform, Reanimated, React Navigation, Expo Router, Detox, Sentry, Crashlytics, MMKV, APNs and FCM push, deep linking, and i18n.
-
----
-
-## 📊 GitHub Stats
-
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=joetechster&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joetechster&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-bamidele-5b8968251)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bamideledamilola3@gmail.com)
-
-<sub>Open to remote React Native and mobile engineering roles.</sub>
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| [Coinnalyze](https://github.com/joetechster/coinnalyze) | Real-time crypto tracker with WebSocket price feeds, market comparison, and dark/light theme | React Native · Redux · GraphQL · TypeScript |
+| **BOI Marketplace** ([live](https://boi.dmastermind.com)) | Sole frontend engineer on a two-sided marketplace — buyer storefront + vendor console, real-time SignalR messaging, full auth surface (OAuth, email verification, TOTP 2FA). 21 Vitest suites. | React 18 · TS · RTK Query · SignalR · Zod |
+| **StoneCircle** ([App Store](https://apps.apple.com/us/app/stonecircle/id6742403322) · [Google Play](https://play.google.com/store/apps/details?id=com.stonecircle.community)) | Community app, POC → live, used by thousands. E2E-encrypted chat, push, 25% faster load. | React Native · TS · Kotlin · Swift |
+| **WiSolar** ([App Store](https://apps.apple.com/us/app/wisolar/id1633516130) · [Google Play](https://play.google.com/store/apps/details?id=com.wicorp.wisolar)) | Prepaid solar electricity — financial-grade payments, biometric auth, encrypted storage. Led a Google Play compliance migration. | React Native · TS · Reanimated |
+| **Coinnalyze** ([repo](https://github.com/joetechster/coinnalyze)) | Crypto tracker — real-time BTC/ETH prices, news aggregation, coin comparison. | React Native · GraphQL · Redux |
 
----
+## Reach me
 
-### 📬 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-bamidele-5b8968251)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bamideledamilola3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bamideledamilola3@gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white)](mailto:bamideledamilola3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-josephbamidele-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephbamidele)
