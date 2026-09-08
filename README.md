@@ -7,7 +7,7 @@ I build fast, reliable interfaces for web and mobile, and I ship them all the wa
 - 🔭 Currently a **Software Engineer, Digitalization** at **Tolaram**, building internal web tools in React/Next.js that automate manual business processes.
 - 📱 **2 apps live** on the App Store & Google Play (StoneCircle, WiSolar).
 - 🧩 Comfortable dropping below JavaScript when the platform needs it — native Kotlin & Swift modules, Gradle/AGP, the NDK.
-- 🌐 Portfolio: **https://portfolio-mobile-pi.vercel.app/**
+- 🌐 Portfolio: **https://joetechster-portfolio.vercel.app/**
 
 ## What I work with
 
