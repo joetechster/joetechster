@@ -54,4 +54,4 @@ Three years, three teams.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-joetechster--portfolio.vercel.app-087d58?style=flat-square&logo=vercel&logoColor=white)](https://joetechster-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-bamideledamilola3@gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white)](mailto:bamideledamilola3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-josephbamidele-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephbamidele)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Bamidele-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-bamidele-5b8968251)
