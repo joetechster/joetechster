@@ -6,7 +6,7 @@ I build iOS and Android apps with React Native and ship them all the way to the 
 
 - 📱 **2 React Native apps live** on the App Store & Google Play (StoneCircle, WiSolar).
 - 🧩 Native **Kotlin & Swift modules** bridged into React Native — background location, plus Gradle/AGP and the NDK.
-- 🔭 Currently a **Software Engineer, Digitalization** at **Tolaram**, building internal web tools in React/Next.js that automate manual business processes.
+- 🔭 Currently a **Digitalization Specialist** at **Tolaram Africa Enterprises**, owning scoping through weekly TestFlight/APK distribution.
 - 🌐 Portfolio: **https://joetechster-portfolio.vercel.app/**
 
 ## What I work with
@@ -38,9 +38,9 @@ Three years, three teams.
 
 | | | |
 |---|---|---|
-| **Tolaram** | Software Engineer, Digitalization (Frontend) | Aug 2025 – Present |
-| **Lights On Heights** | Mobile Engineer (Frontend) | Feb 2024 – Aug 2025 |
-| **Chevron** | Software Engineer (Frontend) | Aug 2023 – Feb 2024 |
+| **Tolaram Africa Enterprises** | Digitalization Specialist | Sep 2025 – Present |
+| **Lights on Heights Holdings** | React Native Engineer | Feb 2024 – Sep 2025 |
+| **Chevron Nigeria** | React Native Engineer — Internship | Aug 2023 – Feb 2024 |
 
 ## Education & certifications
 
